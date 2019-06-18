@@ -1,0 +1,43 @@
+
+
+/*.countdown{
+	background: url("student.jpg");
+	background-size: cover;
+	font-family: sans-serif;
+}
+*/.countdown{
+	margin-top: 100px;
+	width: 100%;
+	position: relative;
+	left: 50%;
+	transform: translate(-50%,-50%);
+	text-align: center;
+}
+.textt h3 {
+    padding: 20px;
+    color: black;
+    font-weight: bold;
+    text-align: center;
+}
+
+/*.count{
+	margin: 40px 0;
+}*/
+.countd{
+	display: inline-block;
+	width: 60px;
+	height: 60px;
+	border: 2px solid background: rgb(34,193,195);
+background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(161,253,45,1) 100%);;
+	font-size: 7px;
+	margin: 0 8px;
+	border-radius: 50%;
+	color: black;
+	font-weight: bold;
+}
+.countd span{
+	display: block;
+	font-size: 23px;
+	margin-top: 10px;
+	color: #2e00ff;
+}

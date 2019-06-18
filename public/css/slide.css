@@ -1,0 +1,26 @@
+.carousel-inner img {
+    width: 100%;
+    height: 100%;
+ }
+ .send-page {
+	color: #ec7010;
+	font-weight: bold;
+
+ }
+ @media screen and (min-width: 800px) {
+  .send-page {
+    font-size: 30px;
+  }
+}
+
+@media screen and (min-width: 550px) {
+  .send-page {
+    font-size: 20px;
+  }
+}
+
+@media screen and (max-width: 350px) {
+  .send-page {
+    font-size: 10px;
+  }
+}

@@ -1,0 +1,27 @@
+.footerr{
+	padding: 10px;
+	margin-bottom: -30px;
+	background-color: #34495e;
+	color: #E67E22;
+	font-weight: bold;
+	text-align: center;
+	line-height: 30px;
+}
+.icon{
+	padding: 20px;
+}
+.ps1{
+	color: #3498DB;
+}
+.ps2{
+	color: #E74C3C;
+}
+.ps3{
+	color: white;
+}
+.ps1,.ps2,.ps3{
+	padding: 0 10px;
+}
+.jumbotron{
+	line-height: 2.5rem;
+}
